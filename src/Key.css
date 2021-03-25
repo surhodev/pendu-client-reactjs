@@ -1,0 +1,17 @@
+.key:hover {
+    background-color: lightblue;
+}
+
+.key:active {
+    background-color: darkseagreen;
+}
+
+.matched-key {
+
+    background-color: green;
+}
+
+.mismatched-key {
+
+    background-color: red;
+}

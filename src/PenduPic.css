@@ -1,0 +1,74 @@
+.pendu-pic-container {
+
+    width: 159px;
+    height: 130px; 
+    overflow: hidden;
+    position: relative;
+    margin: auto;
+
+    margin-top: 32px;
+}
+  
+  .pendu-0 {
+  
+    position: absolute;
+    /* Dummy values just to have a white panel */
+    top: 1000;
+    left: 1000;
+}
+  
+  .pendu-1 {
+  
+    position: absolute;
+    top:  -82px;
+    left: -57px;
+}
+  
+  .pendu-2 {
+  
+    position: absolute;
+    top:  -82px;
+    left: -266px;
+}
+  
+  .pendu-3 {
+  
+    position: absolute;
+    top:  -82px;
+    left: -481px;
+}
+  
+  .pendu-4 {
+  
+    position: absolute;
+    top:  -82px;
+    left: -696px;
+}
+  
+  .pendu-5 {
+  
+    position: absolute;
+    top:  -313px;
+    left: -50px;
+}
+  
+  .pendu-6 {
+  
+    position: absolute;
+    top:  -313px;
+    left: -255px;
+}
+  
+  .pendu-7 {
+  
+    position: absolute;
+    top:  -313px;
+    left: -468px;
+}
+  
+  .pendu-8 {
+  
+    position: absolute;
+    top:  -313px;
+    left: -700px;
+}
